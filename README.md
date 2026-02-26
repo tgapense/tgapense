@@ -1,4 +1,4 @@
-# Timothy  — Cloud Security + Detection (Guardrails • Logging/Telemetry • Runbooks)
+# Timothy Pense — Cloud Security + Detection (Guardrails • Logging/Telemetry • Runbooks)
 
 I’m transitioning into cybersecurity with a focus on **Cloud Security Engineering + Detection Engineering**: building secure-by-default cloud guardrails and building the logging/telemetry + detections/runbooks that catch attackers early.
 
